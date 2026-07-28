@@ -45,3 +45,4 @@ jobs:
       with:
         name: archive
         path: archive.json
+Run martinthomson/i-d-template@v1
